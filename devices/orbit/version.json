@@ -1,10 +1,8 @@
 {
   "device": "ORBIT",
   "version": "1.0.0",
-  "firmware_url": "",
+  "firmware_url": "https://github.com/India7Deskcompanions/DeskCompanions/releases/download/orbit-v1.0.0/orbit_v1.0.0.bin",
   "release_date": "2026-08-04",
   "mandatory": false,
-  "notes": [
-    "Prima versione ufficiale di ORBIT Companion OS"
-  ]
+  "notes_text": "Prima versione ufficiale di ORBIT Companion OS."
 }
