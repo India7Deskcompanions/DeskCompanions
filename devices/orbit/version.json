@@ -1,0 +1,10 @@
+{
+  "device": "ORBIT",
+  "version": "1.0.0",
+  "firmware_url": "",
+  "release_date": "2026-08-04",
+  "mandatory": false,
+  "notes": [
+    "Prima versione ufficiale di ORBIT Companion OS"
+  ]
+}
