@@ -1,5 +1,8 @@
 {
+  "device": "ORBIT",
   "version": "1.0.1",
-  "firmware": "https://github.com/India7Deskcompanions/DeskCompanions/releases/download/orbit-v1.0.1/orbit_v1.0.1.bin",
-  "notes": "Primo aggiornamento OTA ufficiale di ORBIT Companion OS."
+  "firmware_url": "https://github.com/India7Deskcompanions/DeskCompanions/releases/download/orbit-v1.0.1/orbit_v1.0.1.bin",
+  "release_date": "2026-08-15",
+  "mandatory": false,
+  "notes_text": "Primo aggiornamento OTA ufficiale di ORBIT Companion OS."
 }
