@@ -1,8 +1,8 @@
 {
   "device": "ORBIT",
-  "version": "1.0.1",
-  "firmware_url": "https://github.com/India7Deskcompanions/DeskCompanions/releases/download/orbit-v1.0.1/orbit_v1.0.1.bin",
-  "release_date": "2026-08-15",
+  "version": "1.0.3",
+  "firmware_url": "https://github.com/India7Deskcompanions/DeskCompanions/releases/download/orbit-v1.0.3/orbit_v1.0.3.bin",
+  "release_date": "2026-10-15",
   "mandatory": false,
-  "notes_text": "Primo aggiornamento OTA ufficiale di ORBIT Companion OS."
+  "notes_text": "Migliorata la regolazione del volume e aggiunta un'anteprima sonora durante la modifica."
 }
